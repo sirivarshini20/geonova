@@ -231,7 +231,6 @@ const App: React.FC = () => {
       className="about-us-image"
     />
 
-    {/* Content Overlay */}
     <Box className="about-us-content">
       <Typography variant="h2" className="about-us-title">
         Smarter Decisions for a <br /> Changing Planet
@@ -273,7 +272,7 @@ const App: React.FC = () => {
       </Box>
     </Box>
 
-    {/* Core Expertise Section */}
+ 
     <Box className="core-expertise">
       <Typography variant="h4" className="expertise-title">
         Our Core Expertise
